@@ -50,9 +50,9 @@ function ongalleryContainerClick(evt) {
 
 function onCloseImg(evt) {
     if (evt.code === "Escape") {
-    instance.close()
-   }
-   }
+        instance.close()
+    }
+}
 
 
 
